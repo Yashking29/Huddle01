@@ -10,10 +10,10 @@ function App() {
 
   return (
     <main className='w-screen flex justify-center bg-black'>
-      <div className='w-full max-w-[83rem]'>
+      <div className='w-full px-20'>
           <Navbar/>
           <Hero/>
-          <Body/>
+       
       </div>
     </main>
   )
